@@ -1,0 +1,8 @@
+===== FILE HANDLING UTILITY =====
+1. Write to File
+2. Read File
+3. Modify File
+4. Exit
+Enter your choice: 1
+Enter text to write: Hello Internship
+Data written successfully!
